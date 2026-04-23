@@ -1,7 +1,7 @@
 # README
 
 ## Report
-- ./ProjectReport.pdf
+- ProjectReport.pdf
 
 ## Prerequisites
 - Python 3 (tested with Python 3.10.17) installed
